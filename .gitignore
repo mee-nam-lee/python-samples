@@ -1,5 +1,6 @@
-*/.git
-*/.gitignore
+.git
+.gitignore
+**/.ipynb_checkpoints
 **/*.mp3
 **/*.wav
-*/dialog*
+**/dialog*
